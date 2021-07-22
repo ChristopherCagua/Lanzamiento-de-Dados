@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/Juego de DADOS/cmake-build-debug/CMakeFiles/Juego_de_DADOS.dir
+C:/Users/PC/CLionProjects/Juego de DADOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/Juego de DADOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
